@@ -1,0 +1,96 @@
+.pricing{
+  background-color: #F5F5F5;
+  text-align: center;
+}
+
+.pricing hr{
+  margin: 30px auto;
+}
+
+.pricing h1{
+  padding-top: 110px;
+}
+
+
+
+.pricing_cards_container{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 115px;
+  align-items: flex-end;
+}
+
+.pricing_card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  margin-bottom: 97px;
+}
+
+.pricing_card div{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pricing_card_title{
+  height: 59px;
+  font-size: 17px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 1px;
+  background-color: #333333;
+}
+
+.pricing_card_price{
+  height: 100px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  background-color: #333333;
+}
+
+.pricing_card_price p > span{
+  font-size: 30px;
+}
+
+.pricing_card_subtitle{
+  height: 51px;
+  font-size: 12px;
+  background-color: #333333;
+}
+
+.price_card_list ul{
+  width: 100%;
+  margin: 0;
+  padding-left: 0;
+}
+
+.price_card_list li{
+  text-transform: uppercase;
+  color: #86878B;
+  list-style-type: none;
+  background-color: #FFFFFF;
+  height: 40px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1px;
+}
+
+.pricing_cart_most-popular{
+  background-color: #FF8B38;
+  height: 4px;
+  color: rgba(255, 255, 255, 0);
+}
+
+#most-popular .pricing_cart_most-popular{
+  height: 40px;
+  color: #fff;
+}

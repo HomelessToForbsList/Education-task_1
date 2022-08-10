@@ -1,0 +1,33 @@
+.social{
+  background-color: #fff;
+}
+
+.social_container{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.social_info{
+  padding: 24px 0;
+  width: 30%;
+}
+
+.social_info p{
+  margin-top: 12px;
+}
+
+.social_icons{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1 1 auto;
+}
+
+.social_icons i{
+  display: block;
+}
+
+.social_icons .fa-brands, .social_icons .fa-solid{
+  color: #CCCCCC;
+}

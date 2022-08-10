@@ -1,0 +1,47 @@
+.reviews{
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+.reviews hr{
+  margin: 30px auto;
+}
+
+.reviews h1{
+  padding-top: 110px;
+}
+
+.reviews_cards_block{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 55px;
+  padding-bottom: 102px;
+}
+
+.reviews_card{
+  max-width: 26%;
+  min-width: 273px;
+}
+
+.reviews_card_dialog{
+  background-image: url('/img/dialog.png');
+  background-repeat: no-repeat;
+  padding: 24px 12px 41px 12px;
+  text-align: left;
+}
+
+
+.account_info{
+  display: flex;
+}
+
+.account_info_text{
+  padding: 15px;
+  text-align: left;
+}
+
+.account_info_text p:first-child{
+  font-size: 19px;
+  font-weight: 700;
+}

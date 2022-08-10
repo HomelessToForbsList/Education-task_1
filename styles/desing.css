@@ -1,0 +1,29 @@
+.axure_desing{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('/img/axure_bg_img.png');
+  text-align: center;
+  color: #fff;
+}
+
+.axure_desing_container{
+  padding-top: 75px;
+  padding-bottom: 62px;
+}
+
+
+.axure_desing_container hr{
+  margin: 30px auto;
+}
+
+.axure_desing_container p{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.axure_desing_container button{
+  margin-top: 33px;
+}
