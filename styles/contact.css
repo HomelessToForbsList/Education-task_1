@@ -47,8 +47,7 @@
   padding: 0px 0px 131px 0px;
   text-align: start;
   width: 100%;
-  /* border-bottom: 1px solid #BDBDBD; */
-  box-shadow: 1px rgb(26, 25, 25);
+  border-bottom: 1px solid #BDBDBD;
 }
 
 .contact_form_data{
