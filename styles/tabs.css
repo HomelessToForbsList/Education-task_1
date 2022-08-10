@@ -46,6 +46,11 @@
   height: 46px;
   background-color: #FF8B38;
   color: #fff;
+  cursor: pointer;
+}
+
+.btn_tab_dwnld:hover{
+  background-color: #f7af79;
 }
 
 .tab_content p {

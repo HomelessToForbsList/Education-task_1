@@ -47,7 +47,8 @@
   padding: 0px 0px 131px 0px;
   text-align: start;
   width: 100%;
-  border-bottom: 1px solid #BDBDBD;
+  /* border-bottom: 1px solid #BDBDBD; */
+  box-shadow: 1px rgb(26, 25, 25);
 }
 
 .contact_form_data{
@@ -61,4 +62,9 @@
   height: 46px;
   background-color: #FF9B51;
   color: #fff;
+  cursor: pointer;
+}
+
+.contact_form button:hover{
+  background-color: #f7af79;
 }

@@ -33,3 +33,8 @@ footer p{
   justify-content: center;
   cursor: pointer;
 }
+
+.btn_up:hover{
+  transform: scale(1.3);
+  transition: 0.5s ;
+}

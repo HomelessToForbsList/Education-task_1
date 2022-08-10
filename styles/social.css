@@ -25,9 +25,11 @@
 }
 
 .social_icons i{
+  color: #CCCCCC;
   display: block;
+  cursor: pointer;
 }
 
-.social_icons .fa-brands, .social_icons .fa-solid{
-  color: #CCCCCC;
+.social_icons i:hover{
+  color: #8f8f8f;
 }
