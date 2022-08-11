@@ -191,3 +191,7 @@
     display: block;
   }
 }
+
+input:focus{
+  border: 1px solid #FF9B51;
+}

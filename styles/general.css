@@ -21,9 +21,7 @@ input{
   outline:none;
 }
 
-input:focus{
-  border: 1px solid #FF9B51;
-}
+
 
 p{
   margin-block-start: 0;
